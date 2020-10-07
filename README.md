@@ -1,0 +1,1 @@
+This is a project where i am goint to build an Etch-a-Sketch as a browser "app". I will follow the assignment given in 'The Odin Project' and will thus, follow the instructions given at "https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project".
